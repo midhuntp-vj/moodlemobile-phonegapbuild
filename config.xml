@@ -2,8 +2,8 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "2015"
+        id        = "com.vjec.moodlemobile"
+        versionCode = "2016"
         version   = "3.1.3">
     <name>Moodle Mobile</name>
 
@@ -11,8 +11,8 @@
         Moodle Mobile official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
+    <author href="http://vjec.ac.in/departments/faculty/faculty-details?id=29" email="midhuntp@vjec.ac.in">
+        Department of CSE, VJEC
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
